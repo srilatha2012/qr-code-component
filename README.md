@@ -26,7 +26,7 @@ Through this project, I practiced:
  - working with spacing, padding, and border radious
 
 ## Live Links
-- [GitHub Pages](https://pages.github.com/)
+- (GitHub) https://github.com/srilatha2012/qr-code-component.git
 
 ## Acknowledgments
 Challenge by Frontend Mentor
